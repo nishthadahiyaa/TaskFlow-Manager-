@@ -8,7 +8,7 @@ A simple and responsive To-Do List web application built with **HTML**, **CSS**,
 - ❌ Delete tasks
 - ☑️ Mark tasks as completed
 - 🌓 Clean and responsive UI
-- 💾 Local storage support (optional enhancement)
+- 💾 Local storage support (optional enhancement).
 
 ##  Demo
 
